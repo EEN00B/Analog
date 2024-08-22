@@ -5,3 +5,5 @@ Ti Analog Dialogue --- https://www.ti.com/design-development/analog-design-journ
 Analog Devices Analog Dialogue --- https://www.analog.com/en/resources/analog-dialogue.html
 
 TI Precision Labs --- https://www.ti.com/video/series/precision-labs.html
+
+TI Analog Circuit Cookbook --- https://www.ti.com/design-development/analog-circuits.html
